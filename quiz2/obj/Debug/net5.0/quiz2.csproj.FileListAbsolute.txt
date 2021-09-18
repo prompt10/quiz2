@@ -1,0 +1,16 @@
+D:\Prompt\MDT211\quiz2\quiz2\obj\Debug\net5.0\quiz2.csprojAssemblyReference.cache
+D:\Prompt\MDT211\quiz2\quiz2\obj\Debug\net5.0\quiz2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prompt\MDT211\quiz2\quiz2\obj\Debug\net5.0\quiz2.AssemblyInfoInputs.cache
+D:\Prompt\MDT211\quiz2\quiz2\obj\Debug\net5.0\quiz2.AssemblyInfo.cs
+D:\Prompt\MDT211\quiz2\quiz2\obj\Debug\net5.0\quiz2.csproj.CoreCompileInputs.cache
+D:\Prompt\MDT211\quiz2\quiz2\bin\Debug\net5.0\quiz2.exe
+D:\Prompt\MDT211\quiz2\quiz2\bin\Debug\net5.0\quiz2.deps.json
+D:\Prompt\MDT211\quiz2\quiz2\bin\Debug\net5.0\quiz2.runtimeconfig.json
+D:\Prompt\MDT211\quiz2\quiz2\bin\Debug\net5.0\quiz2.runtimeconfig.dev.json
+D:\Prompt\MDT211\quiz2\quiz2\bin\Debug\net5.0\quiz2.dll
+D:\Prompt\MDT211\quiz2\quiz2\bin\Debug\net5.0\ref\quiz2.dll
+D:\Prompt\MDT211\quiz2\quiz2\bin\Debug\net5.0\quiz2.pdb
+D:\Prompt\MDT211\quiz2\quiz2\obj\Debug\net5.0\quiz2.dll
+D:\Prompt\MDT211\quiz2\quiz2\obj\Debug\net5.0\ref\quiz2.dll
+D:\Prompt\MDT211\quiz2\quiz2\obj\Debug\net5.0\quiz2.pdb
+D:\Prompt\MDT211\quiz2\quiz2\obj\Debug\net5.0\quiz2.genruntimeconfig.cache
